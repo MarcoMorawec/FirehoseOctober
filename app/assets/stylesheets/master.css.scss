@@ -21,10 +21,24 @@ body {
     font-weight: 200;
 }
 
+.custom-font-3 {
+	color: white;
+	font-family: Helvetica Neue Light,Helvetica Neue,Helvetica,san-serif;
+    font-size: 18px;
+    font-weight: 200;  
+}
+
 .my-wrapper h1,
 .my-wrapper h2, 
 .my-wrapper h3, 
 .my-wrapper p {
 	color:white;
 }
+
+.stolen-surfbox {	
+ 	background-color: rgba(36, 32, 33, 0.5);
+    box-shadow: 2px -2px 2px 2px rgba(36, 32, 33, 0.5);
+    padding: 1%;
+    margin-top: 60px;
+  }
 
